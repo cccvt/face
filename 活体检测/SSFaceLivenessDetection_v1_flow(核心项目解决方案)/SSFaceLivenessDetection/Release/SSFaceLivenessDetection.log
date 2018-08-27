@@ -1,0 +1,25 @@
+﻿生成启动时间为 2018/2/6 10:27:36。
+     1>项目“D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection - 副本\SSFaceLivenessDetection\SSFaceLivenessDetection.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Windows Kits\8.1\include" /I"C:\Program Files (x86)\Windows Kits\8.1\\include" /I../include /ID:\OpenCV\Opencv2.4.9\build\include /ID:\OpenCV\Opencv2.4.9\build\include\opencv /ID:\OpenCV\Opencv2.4.9\build\include\opencv2 /I../include/DirectShow /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt flow.cpp main.cpp
+         flow.cpp
+         main.cpp
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection - 副本\ssfacelivenessdetection\SSLivenessDetection.h(28): warning C4091: “typedef ”: 没有声明变量时忽略“FaceRect”的左侧
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection - 副本\ssfacelivenessdetection\SSLivenessDetection.h(35): warning C4091: “typedef ”: 没有声明变量时忽略“FrameInfo”的左侧
+     1>main.cpp(48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(192): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(94): warning C4101: “finish”: 未引用的局部变量
+     1>main.cpp(95): warning C4101: “totaltime”: 未引用的局部变量
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection - 副本\Release\SSFaceLivenessDetection.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\OpenCV\Opencv2.4.9\build\x86\vc12\lib /LIBPATH:../lib opencv_core249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_video249.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection - 副本\Release\SSFaceLivenessDetection.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection - 副本\Release\SSFaceLivenessDetection.lib" /MACHINE:X86 /SAFESEH Release\CameraDS.obj
+         Release\flow.obj
+         Release\Liveness.obj
+         Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         SSFaceLivenessDetection.vcxproj -> D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection - 副本\Release\SSFaceLivenessDetection.exe
+     1>已完成生成项目“D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection - 副本\SSFaceLivenessDetection\SSFaceLivenessDetection.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.78

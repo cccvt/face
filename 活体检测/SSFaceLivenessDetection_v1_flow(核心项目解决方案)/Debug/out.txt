@@ -1,0 +1,76 @@
+Value of Move Identification: 14.2137
+This is Liveness!
+Value of Move Identification: 17.8065
+This is not Liveness!
+Value of Move Identification: 19.8652
+This is not Liveness!
+Value of Move Identification: 17.9265
+This is not Liveness!
+Value of Move Identification: 15.5944
+This is not Liveness!
+Value of Move Identification: 18.9405
+This is not Liveness!
+Value of Move Identification: 16.1291
+This is not Liveness!
+Value of Move Identification: 17.0462
+This is not Liveness!
+Value of Move Identification: 17.0741
+This is not Liveness!
+Value of Move Identification: 17.7525
+This is not Liveness!
+Value of Move Identification: 19.6697
+This is not Liveness!
+Value of Move Identification: 19.2073
+This is not Liveness!
+Value of Move Identification: 12.5803
+This is not Liveness!
+Value of Move Identification: 17.1928
+This is not Liveness!
+Value of Move Identification: 16.1031
+This is not Liveness!
+Value of Move Identification: 17.0281
+This is not Liveness!
+Value of Move Identification: 20.6843
+This is not Liveness!
+Value of Move Identification: 17.4355
+This is not Liveness!
+Value of Move Identification: 17.5872
+This is not Liveness!
+Value of Move Identification: 20.4127
+This is not Liveness!
+Value of Move Identification: 13.6998
+This is Liveness!
+Value of Move Identification: 19.5387
+This is not Liveness!
+Value of Move Identification: 20.8727
+This is not Liveness!
+Value of Move Identification: 20.2604
+This is not Liveness!
+Value of Move Identification: 15.8843
+This is not Liveness!
+Value of Move Identification: 14.609
+This is Liveness!
+Value of Move Identification: 14.0309
+This is Liveness!
+Value of Move Identification: 18.8971
+This is not Liveness!
+Value of Move Identification: 18.7155
+This is not Liveness!
+Value of Move Identification: 15.4769
+This is not Liveness!
+Value of Move Identification: 13.2376
+This is Liveness!
+Value of Move Identification: 14.682
+This is Liveness!
+Value of Move Identification: 17.2594
+This is not Liveness!
+Value of Move Identification: 20.1671
+This is not Liveness!
+Value of Move Identification: 17.8006
+This is not Liveness!
+Value of Move Identification: 14.5504
+This is Liveness!
+Value of Move Identification: 17.29
+This is not Liveness!
+Value of Move Identification: 16.8186
+This is not Liveness!

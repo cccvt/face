@@ -1,0 +1,106 @@
+Value of Move Identification: 17.9208
+This is not Liveness!
+Value of Move Identification: 18.082
+This is not Liveness!
+Value of Move Identification: 18.2117
+This is not Liveness!
+Value of Move Identification: 17.8158
+This is not Liveness!
+Value of Move Identification: 17.7639
+This is not Liveness!
+Value of Move Identification: 18.5725
+This is not Liveness!
+Value of Move Identification: 18.2545
+This is not Liveness!
+Value of Move Identification: 18.1936
+This is not Liveness!
+Value of Move Identification: 19.8433
+This is not Liveness!
+Value of Move Identification: 16.4822
+This is not Liveness!
+Value of Move Identification: 13.597
+This is Liveness!
+Value of Move Identification: 13.5748
+This is Liveness!
+Value of Move Identification: 13.7592
+This is Liveness!
+Value of Move Identification: 14.1238
+This is Liveness!
+Value of Move Identification: 11.6973
+This is Liveness!
+Value of Move Identification: 11.2456
+This is Liveness!
+Value of Move Identification: 11.3349
+This is Liveness!
+Value of Move Identification: 14.3258
+This is Liveness!
+Value of Move Identification: 16.9771
+This is not Liveness!
+Value of Move Identification: 16.9764
+This is not Liveness!
+Value of Move Identification: 16.9965
+This is not Liveness!
+Value of Move Identification: 7.87222
+This is not Liveness!
+Value of Move Identification: 11.1201
+This is Liveness!
+Value of Move Identification: 14.2766
+This is not Liveness!
+Value of Move Identification: 16.242
+This is not Liveness!
+Value of Move Identification: 12.7157
+This is Liveness!
+Value of Move Identification: 16.9836
+This is not Liveness!
+Value of Move Identification: 15.531
+This is not Liveness!
+Value of Move Identification: 16.4554
+This is not Liveness!
+Value of Move Identification: 5.89449
+This is Liveness!
+Value of Move Identification: 21.4906
+This is not Liveness!
+Value of Move Identification: 16.4717
+This is not Liveness!
+Value of Move Identification: 19.213
+This is not Liveness!
+Value of Move Identification: 18.3653
+This is not Liveness!
+Value of Move Identification: 12.8478
+This is Liveness!
+Value of Move Identification: 17.5362
+This is not Liveness!
+Value of Move Identification: 13.484
+This is Liveness!
+Value of Move Identification: 22.641
+This is not Liveness!
+Value of Move Identification: 17.9914
+This is not Liveness!
+Value of Move Identification: 22.2335
+This is not Liveness!
+Value of Move Identification: 23.1253
+This is not Liveness!
+Value of Move Identification: 21.6275
+This is not Liveness!
+Value of Move Identification: 23.1783
+This is not Liveness!
+Value of Move Identification: 19.8071
+This is not Liveness!
+Value of Move Identification: 16.0657
+This is not Liveness!
+Value of Move Identification: 15.9843
+This is not Liveness!
+Value of Move Identification: 15.9976
+This is not Liveness!
+Value of Move Identification: 16.3227
+This is not Liveness!
+Value of Move Identification: 16.3512
+This is not Liveness!
+Value of Move Identification: 15.9616
+This is not Liveness!
+Value of Move Identification: 16.2063
+This is not Liveness!
+Value of Move Identification: 20.9774
+This is not Liveness!
+Live number is 13
+Non live number is 39

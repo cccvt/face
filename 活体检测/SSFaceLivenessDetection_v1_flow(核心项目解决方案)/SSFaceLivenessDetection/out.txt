@@ -1,0 +1,4 @@
+Value of Move Identification: 14.5186
+This is Liveness!
+Value of Move Identification: 10.1599
+This is Liveness!

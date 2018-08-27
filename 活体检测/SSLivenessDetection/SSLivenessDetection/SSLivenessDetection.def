@@ -1,0 +1,5 @@
+LIBRARY
+EXPORTS
+	SS_LivenessSDK_Init				@1
+	SS_LivenessSDK_UnInit			@2
+	SS_LivenessSDK_Detect			@3

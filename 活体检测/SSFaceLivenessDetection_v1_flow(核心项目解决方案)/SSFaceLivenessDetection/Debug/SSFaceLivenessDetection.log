@@ -1,0 +1,28 @@
+﻿生成启动时间为 2018/2/24 10:49:34。
+     1>项目“D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection_v1_flow\SSFaceLivenessDetection\SSFaceLivenessDetection.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Windows Kits\8.1\include" /I"C:\Program Files (x86)\Windows Kits\8.1\\include" /I../include /ID:\OpenCV\Opencv2.4.9\build\include /ID:\OpenCV\Opencv2.4.9\build\include\opencv /ID:\OpenCV\Opencv2.4.9\build\include\opencv2 /I../include/DirectShow /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\opencv\opencv2.4.9\build\include\opencv2\flann\result_set.h(306): warning C4003: “max”宏的实参不足
+     1>d:\opencv\opencv2.4.9\build\include\opencv2\flann\result_set.h(428): warning C4003: “max”宏的实参不足
+     1>d:\opencv\opencv2.4.9\build\include\opencv2\flann\lsh_index.h(203): warning C4003: “max”宏的实参不足
+     1>d:\opencv\opencv2.4.9\build\include\opencv2\flann\lsh_index.h(269): warning C4003: “max”宏的实参不足
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection_v1_flow\ssfacelivenessdetection\sslivenessdetection.h(28): warning C4091: “typedef ”: 没有声明变量时忽略“FaceRect”的左侧
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection_v1_flow\ssfacelivenessdetection\sslivenessdetection.h(35): warning C4091: “typedef ”: 没有声明变量时忽略“FrameInfo”的左侧
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection_v1_flow\ssfacelivenessdetection\main.cpp(48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection_v1_flow\ssfacelivenessdetection\main.cpp(193): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection_v1_flow\ssfacelivenessdetection\main.cpp(94): warning C4101: “finish”: 未引用的局部变量
+     1>d:\工作项目\2017-02-20活体检测\ssfacelivenessdetection_v1_flow\ssfacelivenessdetection\main.cpp(95): warning C4101: “totaltime”: 未引用的局部变量
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection_v1_flow\Debug\SSFaceLivenessDetection.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\OpenCV\Opencv2.4.9\build\x86\vc12\lib /LIBPATH:../lib opencv_core249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_video249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection_v1_flow\Debug\SSFaceLivenessDetection.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection_v1_flow\Debug\SSFaceLivenessDetection.lib" /MACHINE:X86 Debug\CameraDS.obj
+         Debug\flow.obj
+         Debug\histogram.obj
+         Debug\lbp.obj
+         Debug\Liveness.obj
+         Debug\main.obj
+         SSFaceLivenessDetection.vcxproj -> D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection_v1_flow\Debug\SSFaceLivenessDetection.exe
+     1>已完成生成项目“D:\工作项目\2017-02-20活体检测\SSFaceLivenessDetection_v1_flow\SSFaceLivenessDetection\SSFaceLivenessDetection.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.46
